@@ -14,7 +14,13 @@
 <fanart>https://blogjustfun.com.br/wp-content/uploads/2020/01/filmes-2020-lancamentos.jpg</fanart>
 <externallink>https://pastebin.com/raw/bkLpDePi</externallink>
 </item>
- 
+ <item>
+<title>Lançamentos 2020</title>
+<link>http://ignorame</link>
+<thumbnail>https://blogjustfun.com.br/wp-content/uploads/2020/01/filmes-2020-lancamentos.jpg</thumbnail>
+<fanart>https://blogjustfun.com.br/wp-content/uploads/2020/01/filmes-2020-lancamentos.jpg</fanart>
+<externallink>https://pastebin.com/raw/bMyhcDdv</externallink>
+</item>
 <item>
 <title>Ação</title>
 <link>http://ignorame</link>
