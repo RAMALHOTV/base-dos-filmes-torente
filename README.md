@@ -12,7 +12,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://blogjustfun.com.br/wp-content/uploads/2020/01/filmes-2020-lancamentos.jpg</thumbnail>
 <fanart>https://blogjustfun.com.br/wp-content/uploads/2020/01/filmes-2020-lancamentos.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-REDCANAIS-/main/README.md</externallink>
+<externallink>https://pastebin.com/raw/bkLpDePi</externallink>
 </item>
  
 <item>
