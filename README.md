@@ -5,7 +5,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/16838f52-75db-405f-85ec-e1844e2f4709/d9tfv0l-49f4321a-5197-4a00-ad0c-df5cd46d89a0.jpg</thumbnail>
 <fanart>https://garotasdiscretas.files.wordpress.com/2015/02/filmes_logo.jpg?w=820&h=312&crop=1</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMESTORRENTES/main/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/torentesnovos/main/README.md</externallink>
 </item>
 <item>
 <title>Lançamentos</title>
