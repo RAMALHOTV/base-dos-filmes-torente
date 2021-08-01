@@ -91,7 +91,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://i.postimg.cc/FHn6tYmj/Sport.png</thumbnail>
 <fanart>https://i.postimg.cc/FHn6tYmj/Sport.png</fanart>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/COMEDIA</externallink>
+<externallink>https://pastebin.com/raw/48kUCisR</externallink>
 </item>
  
 <item>
