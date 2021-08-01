@@ -87,11 +87,11 @@
 </item>
  
 <item>
-<title>Esporte</title>
+<title>FILMES TESTE</title>
 <link>http://ignorame</link>
 <thumbnail>https://i.postimg.cc/FHn6tYmj/Sport.png</thumbnail>
 <fanart>https://i.postimg.cc/FHn6tYmj/Sport.png</fanart>
-<externallink>https://milhano.com.pt/milhano.com.pt/koala/Kuala/sub-menu-filmes/Esporte.txt</externallink>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/TEC%20TEC%20BRASIL</externallink>
 </item>
  
 <item>
@@ -139,7 +139,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c3/MCU_Red_Stamp.PNG/revision/latest?cb=20151207001649</thumbnail>
 <fanart>https://br.web.img3.acsta.net/r_640_360/newsv7/17/01/25/13/49/207628.jpg</fanart>
-<externallink>https://pastebin.com/raw/3eC7L2GD</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/CINE-NE-MARVEL/main/README.md</externallink>
 </item>
            
 <item>
