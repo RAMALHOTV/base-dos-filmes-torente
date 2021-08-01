@@ -26,7 +26,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://i.postimg.cc/jSg72LbM/Action.png</thumbnail>
 <fanart>https://i.postimg.cc/jSg72LbM/Action.png</fanart>
-<externallink>https://pastebin.com/raw/igQkfX0Q</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-ACAO/main/README.md</externallink>
 </item>
  
 <item>
