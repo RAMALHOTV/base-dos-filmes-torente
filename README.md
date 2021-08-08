@@ -155,5 +155,5 @@
 <link>http://ignorame</link>
 <thumbnail>https://i.postimg.cc/rwZzN3zj/Horror.png</thumbnail>
 <fanart>https://i.postimg.cc/rwZzN3zj/Horror.png</fanart>
-<externallink>https://pastebin.com/raw/Gk8Mf79b</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-TERROR-2/main/README.md</externallink>
 </item>
