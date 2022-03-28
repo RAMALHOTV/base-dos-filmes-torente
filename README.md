@@ -8,19 +8,13 @@
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/DWIGHT-FARROKH-LISTAS-GRATIS/main/README.md</externallink>
 </item>
 <item>
-<title>Lançamentos 2021</title>
+<title>Lançamentos</title>
 <link>http://ignorame</link>
 <thumbnail>https://blogjustfun.com.br/wp-content/uploads/2020/01/filmes-2020-lancamentos.jpg</thumbnail>
 <fanart>https://blogjustfun.com.br/wp-content/uploads/2020/01/filmes-2020-lancamentos.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-LANCAMETOS2021/main/README.md</externallink>
 </item>
-<item>
-<title>Lançamentos 2020</title>
-<link>http://ignorame</link>
-<thumbnail>https://blogjustfun.com.br/wp-content/uploads/2020/01/filmes-2020-lancamentos.jpg</thumbnail>
-<fanart>https://blogjustfun.com.br/wp-content/uploads/2020/01/filmes-2020-lancamentos.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmes2020/master/README.md</externallink>
-</item>
+
 <item>
 <title>Ação</title>
 <link>http://ignorame</link>
